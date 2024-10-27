@@ -1,5 +1,4 @@
 import os, random, math, time
-import pytz
 import argparse
 import pprint as pp
 from datetime import datetime
